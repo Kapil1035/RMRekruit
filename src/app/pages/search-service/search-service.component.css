@@ -1,0 +1,21 @@
+.ESS{
+    text-align: center;
+    font-size: x-large;
+    margin-top: 10px;
+    padding: 1%;
+    margin-bottom: 7px;
+}
+.ESS>h2{
+    color: rgb(96,157,178);
+}
+
+.pic7{
+    width: 100%;
+     height: 350px;
+}
+
+.ESSP{
+    font-size: larger;
+    text-align: justify;
+    line-height: 25px;
+}

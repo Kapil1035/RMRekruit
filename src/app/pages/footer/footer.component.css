@@ -1,0 +1,16 @@
+footer{
+    background-color: rgb(96,157,178);
+    color: white;
+    margin-top: 20px;
+    /* position: fixed; */
+}
+.services{
+    margin-left: 150px;
+    margin-right: 100px;
+}
+
+@media screen and (max-width: 500px) {
+    .services {
+        margin-left: 0px;
+    }
+}

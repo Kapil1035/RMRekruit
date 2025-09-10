@@ -1,0 +1,14 @@
+.container-fluid{
+    background-color: rgb(96,157,178)
+}
+.navbar{
+    padding-bottom: 0px;
+}
+.nav-link{
+    color: white;
+    font-weight: 500;
+}
+.navbar-toggler-icon{
+    background-color: white;
+    border-radius: 7px;
+}

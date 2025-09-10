@@ -1,0 +1,33 @@
+.container{
+    margin-bottom: 40px;
+    /* margin-top: 20px; */
+}
+.our_value{
+    padding: 2%;
+}
+.our_value>h1{
+    color: rgb(96,157,178);
+}
+.our_value_box{
+    /* padding: 1%; */
+    /* border: 1px solid black; */
+    margin: 1%;
+    /* text-align: justify; */
+    font-size: 15px;
+}
+.our_value_box>.col-md-6:hover{
+    /* border: 1px solid black; */
+   box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+    border-radius: 5px;
+    /* padding: 2%; */
+}
+.icons{
+    font-size: x-large;
+    /* border: 1px solid black; */
+    height: 40px;
+    color: rgb(96,157,178);
+    /* border-radius: 50px; */
+}
+.col-10>h4{
+    color: rgb(96,157,178);
+}
